@@ -1,0 +1,11 @@
+{
+  "name": "ss-orm",
+  "version": "0.0.1",
+  "description": "This will be a node.js orm that allows users to use sql like commands to store information in a google sheets 'database'",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "John Carter",
+  "license": "ISC"
+}
